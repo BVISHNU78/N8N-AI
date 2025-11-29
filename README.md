@@ -1,13 +1,9 @@
 # Chat-Agentic-AI – n8n AI Chatbot using Google Gemini + Google Sheets
 <img width="311" height="162" alt="download" src="https://github.com/user-attachments/assets/4cc6b237-bf3a-4197-ae35-264d18e2f278" />
 
-
 This project is an **n8n automation workflow** that creates an AI-powered chat assistant using the **Google Gemini API**. It understands user messages, validates dates, extracts order details, and stores them automatically in **Google Sheets**.
 
----
-
 ## 🚀 Features
-
 ### 🤖 AI Chatbot (Google Gemini)
 - Uses **Google Gemini Chat Model**
 - Understands natural language messages
