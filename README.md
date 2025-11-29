@@ -112,3 +112,7 @@ The bot will:
 ---
 
 <img width="1920" height="1020" alt="Chat-Agentic -AI-1" src="https://github.com/user-attachments/assets/60f3cbf6-a0f8-4dfa-b7e2-0c90ad9dc107" />
+
+-order details taken by agentic ai save on sheet
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-29 182154" src="https://github.com/user-attachments/assets/2a5c1bdb-3871-4e72-85f7-8e01d97f9161" />
